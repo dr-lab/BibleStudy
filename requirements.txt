@@ -1,0 +1,7 @@
+#spyCy
+openai
+#spacytextblob
+#cherrypy
+# pytest
+# pytest-cov
+# pdflatex
