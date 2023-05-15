@@ -16,7 +16,7 @@ Prerequisites
 2. OpenAI support a wide range of Python version from 2.7 to 3.11+, this script is tested with Python 3.10.11.
 More details about how to install Python can be found from [Python Site](https://www.python.org/downloads/).
 
-Steps
+Setup Steps
 --
 
 1. Setup Python dev environment
@@ -48,6 +48,10 @@ After run the python script, the output from chatPGT will be generated in a file
 * If you already installed the [Latex]() in your local, you can use Python package [pdflatex](https://pypi.org/project/pdflatex/) convert the Latex to pdf automatically.
 
 * Otherwise can use [Overleaf](https://www.overleaf.com/) to convert it manually. 
+
+Use it Wisely
+-
+The purpose of this tool is to offer a convenient and efficient method for searching the Bible using specific keywords of interest. However, it is important to understand that it does not serve as a substitute for your current in-person Bible study groups. Therefore, it is advised to utilize this tool wisely and exercise caution by carefully and prudently reviewing the output, as the AI's reasoning and inferencing capabilities are still in the early stages. 
 
 
 Notes
