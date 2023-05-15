@@ -65,6 +65,5 @@ Notes
 |Article | "now you are biblical article writer for Sunday message, please use all these words: " + word_list_str + ", write one article within 500 words. This article should include all these words and quote bible NIV verses as more as possible. Make sure the content is safe for youth. Please include a title at the beginning, bold it, no other content except the title and content. Please list all the bible verses at the end of the article with bible version.  Article should NOT include any URL."|
 
 
-The information provided in this script is generated using the openAI API, and it is possible that the contents may include inaccurate information. This script is intended solely for educational purposes. The prompts used in this script are subject to modification for any reason. 
-
+The generated contents of this script are retrieved by utilizing the openAI API, and it is important to note that they may potentially contain inaccurate information. This script is specifically designed for educational purposes only. Furthermore, the prompts used in this script are subject to modification for any given reason.
 Due to the utilization of the openAI API in this script, there is a associated cost for each execution, approximately amounting to $0.1 cent per run.
